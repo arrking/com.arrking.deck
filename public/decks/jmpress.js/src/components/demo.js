@@ -182,7 +182,7 @@
 					id: "theme",
 					type: 'text/css',
 					rel: 'stylesheet',
-					href: "http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.17/themes/"+theme+"/jquery-ui.css"
+					href: "http://ajax.useso.com/ajax/libs/jqueryui/1.8.17/themes/"+theme+"/jquery-ui.css"
 			});
 			$("head").append( link );
 
